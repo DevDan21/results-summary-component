@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/DevDan21/results-summary-component.git)
+- Live Site URL: [Order Summary Component](https://devdan21.github.io/results-summary-component/)
 
 ## My process
 
